@@ -21,7 +21,7 @@ func init() {
 	fmt.Println(bstr)
 }
 
-func main() {
+func main() {wqe
 	fmt.Println("helloworld")
 	/*//测试1
 	fmt.Println("main hello world 变量："+dstr)
