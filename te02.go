@@ -1,4 +1,6 @@
 package main
+
+import "fmt"
 //////////////////////////////分支测试
 import (
 	"fmt"
